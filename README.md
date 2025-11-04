@@ -5,7 +5,7 @@ Write a simple Python program for the modulation and demodulation of PSK and QPS
 * Python IDE with Numpy and Scipy Libraries
 # Program
 ## PSK
-```
+```python
 #PSK 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -61,7 +61,7 @@ plt.tight_layout()
 plt.show()
 ```
 ## QPSK
-```
+```python
 #QPSK 
 import numpy as np
 import matplotlib.pyplot as plt
